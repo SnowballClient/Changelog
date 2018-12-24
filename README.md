@@ -1,2 +1,2 @@
 # Changelog
-The user and developer changelog
+The user and developer changelogs
